@@ -42,6 +42,7 @@ var config = {
         "improve",
         "refactor",
         "lint",
+        "add",
 
         //
         "test",
@@ -53,3 +54,5 @@ var config = {
 };
 
 module.exports = config;
+
+// git commit -m "fix(general): your message here "
